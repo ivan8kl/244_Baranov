@@ -1,8 +1,0 @@
-#!/bin/sh
-printf "Enter your name: "
-if read name; then
-    echo "Hello, $name!"
-else
-    echo
-    echo "Hello, tmpuser?"
-fi
